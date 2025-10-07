@@ -1,3 +1,5 @@
+// Beginner Level Code from Anuj, Main reason is the learning.
+// Fuckk Mann i am gonna beat the senior devs ;)!!!! Helll Yeahhhhhh!!!!!
 const API_URL = "https://68e1d73a8943bf6bb3c508ed.mockapi.io";
 
 export type Appointment = {
