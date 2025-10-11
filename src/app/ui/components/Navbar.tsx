@@ -14,6 +14,24 @@ export function Navbar() {
           Features
         </a>
         <a
+          href="/aiorb"
+          className="text-sm text-gray-400 hover:text-white transition-colors"
+        >
+          AIORB
+        </a>
+        <a
+          href="/agents"
+          className="text-sm text-gray-400 hover:text-white transition-colors"
+        >
+          Agents
+        </a>
+        <a
+          href="/api"
+          className="text-sm text-gray-400 hover:text-white transition-colors"
+        >
+          Api
+        </a>
+        <a
           href="#"
           className="text-sm text-gray-400 hover:text-white transition-colors"
         >
