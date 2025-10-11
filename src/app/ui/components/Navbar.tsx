@@ -20,6 +20,12 @@ export function Navbar() {
           AIORB
         </a>
         <a
+          href="/agents"
+          className="text-sm text-gray-400 hover:text-white transition-colors"
+        >
+          Agents
+        </a>
+        <a
           href="/api"
           className="text-sm text-gray-400 hover:text-white transition-colors"
         >
