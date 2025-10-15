@@ -26,10 +26,22 @@ export function Navbar() {
           Agents
         </a>
         <a
+          href="/claude"
+          className="text-sm text-gray-400 hover:text-white transition-colors"
+        >
+          Claude
+        </a>
+        <a
           href="/api"
           className="text-sm text-gray-400 hover:text-white transition-colors"
         >
           Api
+        </a>
+        <a
+          href="/clash-royale"
+          className="text-sm text-gray-400 hover:text-white transition-colors"
+        >
+          Battle Arena
         </a>
         <a
           href="#"
